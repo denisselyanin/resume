@@ -1,2 +1,2 @@
-# hse-last-domashka
+# resume
 Селянин Денис Андреевич, БПМИ208
